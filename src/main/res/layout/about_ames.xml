@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#165484"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:scrollbars="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:scrollbars="vertical">
+
+        <!--Add an ImageView: college logo  -->
+        <ImageView
+            android:id="@+id/gameLogo"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="10dp"
+            android:background="#FFFFFFFF"
+            android:contentDescription="collegelogo"
+            android:src="@drawable/collegelogo_transparent" />
+
+        <!--Add a TextView: Game Title-->
+        <TextView
+            android:id="@+id/gameTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/gameLogo"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Flappy Bird Clone Game"
+            android:textColor="#ffffffff"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <!--Add a TextView to display "Game play" instructions  -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/gameTitle"
+            android:layout_centerHorizontal="true"
+            android:padding="5dp"
+            android:text="@string/about_ac"
+            android:textColor="#FFFFFFFF"
+            android:textSize="16sp" />
+    </RelativeLayout>
+</ScrollView>

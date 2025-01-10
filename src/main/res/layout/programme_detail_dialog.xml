@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#cad9df"
+            android:orientation="vertical">
+
+            <!--TextView: display title "Program Details"-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_vertical|center_horizontal"
+                android:padding="2dp"
+                android:text="Program Details"
+                android:textAlignment="center"
+                android:textColor="#0b09a9"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <!--TextView: display the name of selected program-->
+            <TextView
+                android:id="@+id/selected_program"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="Program title (extracted from Intent)"
+                android:textColor="#0c5823"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!--ImageView: display selected programme illustration image-->
+            <ImageView
+                android:id="@+id/selectedImage"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:contentDescription="Image in Dialog View"
+                android:src="@drawable/ames1_bcs" />
+
+            <!--TextView: display "Description"-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFFFF"
+                android:padding="5dp"
+                android:text="Description"
+                android:textColor="#c24d12"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!--TextView: display program description-->
+            <TextView
+                android:id="@+id/programDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@null"
+                android:padding="5dp"
+                android:text="Program description - will be extracted from text file stored in assets folder"
+                android:textColor="#240c2d"
+                android:textSize="17sp"
+                android:textStyle="normal" />
+
+            <!--TextView: display "Qualification level"-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFFFF"
+                android:padding="5dp"
+                android:text="Qualification level"
+                android:textColor="#c24d12"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!--TextView: display program qualification level-->
+            <TextView
+                android:id="@+id/qualification_level"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@null"
+                android:padding="5dp"
+                android:text="NZQA level 7 - Extracted from xml file stored in Assets folder"
+                android:textColor="#240c2d"
+                android:textSize="17sp"
+                android:textStyle="normal" />
+
+            <!--TextView: display "Duration"-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFFFF"
+                android:padding="5dp"
+                android:text="Duration"
+                android:textColor="#c24d12"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!--TextView: display program duration-->
+            <TextView
+                android:id="@+id/durationTxt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@null"
+                android:padding="5dp"
+                android:text="3 years - Extracted from xml file stored in Assets folder"
+                android:textColor="#240c2d"
+                android:textSize="17sp"
+                android:textStyle="normal" />
+
+            <!--TextView: display "Career"-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#FFFFFFFF"
+                android:padding="5dp"
+                android:text="Career"
+                android:textColor="#c24d12"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <!--TextView: display program career-->
+            <TextView
+                android:id="@+id/careerTxt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@null"
+                android:padding="5dp"
+                android:text="Extracted from xml file stored in Assets folder"
+                android:textColor="#240c2d"
+                android:textSize="17sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.v7.widget.CardView>

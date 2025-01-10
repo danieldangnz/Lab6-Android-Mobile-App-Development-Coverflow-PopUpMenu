@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ACPM_CoverFlow</string>
+
+    <!--Add "all_programmes_array" array variable that contains 12 programmes of AC and AMES-->
+    <string-array name="all_programmes_array">
+        <item>AMES Degree: Bachelor of Creative Software</item>
+        <item>AMES Diploma in Web and Application Development</item>
+        <item>AMES Diploma in Networking</item>
+        <item>AMES Diploma in Cloud Technology</item>
+        <item>AMES Certificate in Information Technology Essentials</item>
+        <item>AMES Certificate in Information and Client Support</item>
+        <item>AMES Certificate in SQL Server Administration and Support</item>
+        <item>AC Degree:  Bachelor of Animation</item>
+        <item>AC Diploma in Animation</item>
+        <item>AC Diploma in Applied Animation - 2D</item>
+        <item>AC Diploma in Applied Animation - 3D</item>
+        <item>AC Diploma in Digital Media</item>
+    </string-array>
+
+    <!--About Animation college (AC)-->
+    <string name="about_ac">
+      Animation College was established in 1989 and has built a solid reputation since then as New Zealand\’s character animation specialists. \n
+\n<b>What makes us Unique?</b>\n
+\nAnimation College is a category 1 provider and is the ONLY college in NZ to offer degree and diploma level courses specialising in 2D and 3D animation.
+The College was founded by Ex-Disney Animator John Ewing (101 Dalmatians, The Jungle Book, Sword in the Stone) in 1989. Building a solid foundation of traditional animation knowledge.  \n
+\nWe stay in very close contact with the animation industry, so not only are we up to speed with the latest animation trends and technologies, we\’re constantly talking to the people and businesses that could be your employer one day.\n
+\nOur curriculum emphasises true character animation. No matter whether you chose to specialise in 2D or 3D, the principles of great animation remain the same. \n
+\nAt Animation College you\’ll learn how to create characters that convey real emotions, mimic life, and evoke empathy in the viewer. You\’ll also learn to tell stories that inspire, influence and entertain. Once learned, you\’ll have those skills for life and will find that they are transferable to any software, medium, or technology you will encounter in the industry today or in years to come.\n
+\nIt\’s this skill-base that makes our graduates unique and in demand locally and internationally across a wide range of disciplines, including: animation, illustration, design, gaming, app design, advertising, film and graphic novels or comic books.\n
+\nIf you have a passion for animation, you\’ll love the challenges and opportunities we can offer to expand your creative potential.
+    </string>
+
+
+</resources>

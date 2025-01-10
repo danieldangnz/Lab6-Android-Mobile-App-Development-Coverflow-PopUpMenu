@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<all_programs>
+
+<program>
+<title>AMES Degree: Bachelor of Creative Software</title>
+
+<description> 
+Bring your creative ideas to life whilst exploring emerging and existing technology such as Virtual and Augmented Reality, Mobile Games, Website Development and iOS/Android Application Development. From concept design, coding to execution you will work on commercially relevant projects in a studio-like environment.
+
+MODULES
+ + Website development
+ + Android and iOS Application Development
+ + Mobile Game Development
+ + Virtual Reality Development (HTC Vive and Oculus Rift)
+ + Augmented Reality Development
+ + Entrepreneurship and Business
+ + Project Management
+</description>
+
+<qualification_level>NZQF level 7</qualification_level>
+
+<duration>3 Years</duration>
+
+<career>
+ > Website Developer
+ > Android/Apple Application Developer
+ > Virtual and Augmented Reality Developer
+ > Mobile Game Developer
+ > Creative Consultant
+ > UX/UI Designer
+ > Unity Developer
+ > Unreal Engine Developer
+</career>
+
+<startdate>
+26 February 2018
+23 July 2018
+</startdate>
+
+<tuitionfee>
+$9,272 (Per year)
+Eligible for Fees-Free study
+</tuitionfee>
+
+</program>
+
+
+
+
+ 
+
+<program>
+<title>AMES Diploma in Web and Application Development</title>
+
+<description> 
+This specialisation teaches you how to use SQL, HTML5, CSS3 and Javascript to develop interactive and responsive web sites. Using the C# programming language, learners will also develop mobile applications for the Windows Store, whilst integrating Microsoft's cloud services to the applications developed.
+
+MODULES
+ + Mobile Application Development - 30 Credits
+ + Web Application Development - 30 Credits
+ + Cloud Services - 30 Credits
+ + Practical Projects - 30 Credits
+</description>
+
+<qualification_level>NZQF level 5</qualification_level>
+
+<duration>32 weeks</duration>
+
+<career>
+ > Web Developer
+ > Mobile Application Developer
+ > Cloud Developer
+ > Database Developer
+</career>
+
+<startdate>
+23 July 2018
+</startdate>
+
+<tuitionfee>
+$6,600 *subject to TEC approval
+Eligible for Fees-Free study
+</tuitionfee>
+
+</program>
+
+
+
+
+
+
+
+
+
+<program>
+<title>AMES Diploma in Networking</title>
+
+<description> 
+In this specialisation you'll learn networks architecture, structure, functions, components and models, before progressing to routing and switching essentials for small networks, then on to scaling networks for more complex enrolments.
+
+MODULES
+ + Administering, Installing and Configuring Servers - 45 Credits
+ + Network Theory and Practice - 30 Credits
+ + Advanced Networking ' 30 Credits
+ + Specialisation Project - 15 Credits
+</description>
+
+<qualification_level>NZQF level 6</qualification_level>
+
+<duration>32 weeks</duration>
+
+<career>
+ > Network Technician
+ > IT Support Administrator
+ > Service Technician
+ > Technical Support
+ > Help-desk Representative
+</career>
+
+<startdate>
+23 July 2018
+</startdate>
+
+<tuitionfee>
+$6,600 *subject to TEC approval
+Eligible for Fees-Free study
+</tuitionfee>
+</program>
+
+
+
+
+
+
+
+ 
+<program>
+<title>AMES Diploma in Cloud Technology</title>
+
+<description> 
+Learn to solve complex problems using the latest in Cloud technology. You'll learn enterprise networks, network infrastructure, messaging solutions and information sharing systems using Cloud-based solutions that are scalable, reliable and on-demand.
+
+MODULES
+ + Active directory services
+ + Configuring advanced server services
+ + Server administration
+ + Information sharing systems
+ + Platform as a service
+ + Administering System Centre Configuration Manager
+ + Deploying System Centre Configuration Manager
+ + Monitoring and operating a private Cloud
+ + Configuring and deploying a private Cloud
+</description>
+
+<qualification_level>NZQF level 7</qualification_level>
+
+<duration>45 weeks</duration>
+
+<career>
+ > Server Administrator
+ > Network Administrator
+ > Database Administrator
+ > Network Analyst
+ > Technical Support
+ > Systems Specialist
+ > Virtualisation Specialist
+ > Cloud Solution Expert 
+</career>
+
+<startdate>
+14 May 2018
+</startdate>
+
+<tuitionfee>
+$9,064 *subject to TEC approval
+Eligible for Fees-Free study
+</tuitionfee>
+</program>
+
+
+
+
+
+
+<program>
+<title>AMES Certificate in Information Technology Essentials</title>
+
+<description> 
+If you've been looking for a foundation course to dip your toes into computer hardware or software development then our low-fees NZQA approved course is for you.This specialisation aims to equip students with a range of fundamental level IT skills. You'll cover computer hardware, software concepts, user interface design and business analysis in a hands-on project based learning environment. Learnings from this programme may be used to enter the workforce or to continue onto higher level IT Study.
+
+MODULES
+ + Computing Essentials
+ + Business Essentials for IT
+ + Software Essentials
+</description>
+
+<qualification_level>NZQF level 4</qualification_level>
+
+<duration>16 weeks</duration>
+
+<career>
+ > Web Content Manager
+ > Junior Web Designer
+ > IT Office Specialist 
+</career>
+
+<startdate>
+26 February 2018
+23 July 2018
+</startdate>
+
+<tuitionfee>
+$3,200 *subject to TEC approval.
+Eligible for Fees-Free study
+</tuitionfee>
+</program>
+
+
+
+ 
+<program>
+<title>AMES Certificate in Information and Client Support</title>
+
+<description> 
+This specialisation covers the fundamentals of computer technology, installation, configuration and troubleshooting of PCs and related hardware, as well as basic networking, scripting and installing/configuring Operating Systems. Learners will have guidance from our team of experienced lecturers in a hands-on practical learning environment.
+
+MODULES
+ + Scripting for Systems Administrators - 15 Credits
+ + Hardware - 15 Credits
+ + Operating Systems - 15 Credits
+ + Introduction to Networking - 15 Credits
+</description>
+
+<qualification_level>NZQF level 5</qualification_level>
+
+<duration>16 weeks</duration>
+
+<career>
+ > Field Service Technician
+ > IT Support Technician
+ > Help-Desk Representative 
+</career>
+
+<startdate>
+26 February 2018
+23 July 2018
+</startdate>
+
+<tuitionfee>
+$3,200 *subject to TEC approval.
+Eligible for Fees-Free study
+</tuitionfee>
+</program>
+
+
+
+<program>
+<title>AMES Certificate in SQL Server Administration and Support</title>
+
+<description> 
+This specialisation teaches you how to use Microsoft Structured Query Language (SQL) Server for relational database systems. In this programme you'll also learn backup/restore strategies and security control. Using practical exercises, you'll become familiar with developing database solutions with Microsoft's SQL Server.
+
+MODULES
+ + Scripting for Systems Administrators - 15 Credits
+ + Administering Database Servers - 15 Credits
+ + Developing Databases - 15 Credits
+ + Structured Query Language - 15 Credits
+</description>
+
+<qualification_level>NZQF level 5</qualification_level>
+
+<duration>16 weeks</duration>
+
+<career>
+ > Database Administrator
+ > Database Developer
+</career>
+
+<startdate>
+26 February 2018
+23 July 2018
+</startdate>
+
+<tuitionfee>
+$3,200 *subject to TEC approval.
+Eligible for Fees-Free study
+</tuitionfee>
+</program>
+
+
+ 
+<program>
+<title>AC Degree: Bachelor of Animation</title>
+
+<description> 
+Become a Character Animator, World-Builder or Interactive Game Designer. 
+
+Want to work with the best, and be the best? Our Bachelor of Animation is the ultimate training ground. It's New Zealand's only degree level course specialising in 2D and 3D character animation, and it produces world-class animators who are at the very top of their field. If you want to reach your full potential as an animator, there's no better pathway. 
+Offered in Auckland or Wellington.
+</description>
+
+<qualification_level>NZQF level 7 (360 credits) or NZQF Level 8 (480 credits) 
+</qualification_level>
+
+<duration>3 years</duration>
+<career>
+ + CHARACTER DESIGNERS / CHARACTER ANIMATORS
+ + DIRECTORS OF ANIMATION
+ + NARRATIVE DESIGNERS
+ + SCREENPLAY WRITERS / SCRIPT WRITERS / STORYBOARD ARTISTS
+ + PREVIS ARTISTS / LAYOUT ARTISTS
+ + VIRTUAL CINEMATOGRAPHERS
+ + ANIMATIC ARTISTS
+ + EXPERIMENTAL ANIMATORS
+ + EDITORS
+ + CONCEPT ARTISTS
+ + WORLD-BUILDERS
+ + SCENOGRAPHERS
+ + ART DIRECTORS
+ + ENVIRONMENT DESIGNERS
+ + MATTE PAINTERS
+ + 3D ARTISTS
+ + 3D MODELLERS
+ + RIGGERS
+ + LIGHTING ARTISTS
+ + TEXTURE ARTISTS
+ + TECHNICAL ARTISTS
+ + MOTION CAPTURE TECHNICIANS
+ + COMPOSITORS
+ + VISUAL EFFECTS ARTISTS
+ + VISUAL GRADERS ILLUSTRATORS
+ + GAME DESIGNERS
+ + LEVEL DESIGNERS
+ + CONCEPT ARTISTS
+ + INTERACTIVE NARRATIVE DESIGNERS
+ + INTERFACE DESIGNERS
+ + INDIE GAME DEVELOPERS
+ + MOBILE CONTENT DEVELOPERS
+ + APP DESIGNERS
+ + DIGITAL MEDIA ARTISTS
+ + GAME ARTISTS
+ + CHARACTER DESIGNERS
+ + SPRITE ANIMATORS 
+</career>
+
+<startdate>
+Feb 2018
+July 2018
+</startdate>
+
+<tuitionfee>
+Domestic Fees: $9,457 per year
+Fees Free: Check your eligibility on college website
+</tuitionfee>
+</program>
+
+
+ 
+<program>
+<title>AC Diploma in Animation</title>
+
+<description> 
+Become a 2D or 3D character animator, concept artist or game developer. 
+
+Are you a fan of Hayao Miyazaki? Do you have a soft spot for Disney or Anime? If you're captivated by the hand-drawn characters of legends like Miyazaki and Walt Disney or a super-savvy techie into using software, not pencils. Well, choose your weapon, and become either a master of 2D Digital or 3D Computer Animation.
+
+Kick start your animation training with an introduction to the theory and practice of animation principles with the Diploma in Animation. This one-year foundation programme gives you the option to explore the fundamentals of character animation, pre-production, specialist software and performance animation, with anatomical knowledge at its very core.  
+</description>
+
+<qualification_level>NZQF level 5</qualification_level>
+
+<duration> 1 year (32 weeks)</duration>
+
+<career>
+ > Animator 
+ > Concept artist
+ > 3D guru
+</career>
+
+<startdate>
+Feb 2018, Auckland, Manukau, Rotorua
+</startdate>
+
+<tuitionfee>
+Domestic Fees: $9,484*
+Fees Free: Check your eligibility on college website
+</tuitionfee>
+</program>
+
+
+
+<program>
+<title>AC Diploma in Applied Animation - 2D</title>
+
+<description> 
+Become a character animator, concept artist or game developer. 
+Are you a fan of Hayao Miyazaki movies?  Do you have a soft spot for Disney or Anime? If you're captivated by the hand-drawn characters of legends like Miyazaki and Walt Disney, 2D animation could be your ultimate calling.
+Sure, a lot has changed since the early days. 2D characters can now be digitally animated and we can use Adobe Flash and After Effects to bring them to life. Today's 2D animators do everything from straight ahead digital animation, to puppetry animation, to hybrid forms of 2D animation.
+But the essence of 2D animation remains. It's a traditional hand-drawn craft. It's natural and intuitive. It has drawing techniques and anatomical knowledge at its very core. Movements are broken down into main poses, called 'keys', which tell a story when put into a sequence. The sequence is then composited and backed up by dialogue and music.
+For purists and passionate artists, there's nothing quite like it!
+</description>
+
+<qualification_level>NZQF level 6</qualification_level>
+
+<duration>2 years (32 weeks per year)</duration>
+
+<career>
+ > 2D Animator
+</career>
+
+<startdate>
+Auckland, Manukau, Rotorua
+</startdate>
+
+<tuitionfee>
+Domestic Fees: $9,299*
+Fees Free: Check your eligibility on college website
+</tuitionfee>
+</program>
+
+
+ 
+<program>
+<title>AC Diploma in Applied Animation - 3D</title>
+
+<description> 
+NZQA Accredited, level 6 programme. 
+
+3D animation (or computer-generated imagery) uses three-dimensional computer models to animate characters by combining several styles of animation; these include 2D techniques of keys and breaks, the stop-motion process of sculpting a character as a model, and the puppeteer control system of articulated points of movement. These are more commonly known as key-framing, modelling and rigging.
+
+Other 3D techniques such as texturing and lighting allow 3D animators to skin and light their character or create backgrounds that simulate real life environments. Students adopt these methods using Autodesk Maya as their principle software, but also learn Adobe Photoshop.
+
+The techniques learned can be applied in TV advertising, TV series production, visual fx for film, AAA gaming for PC, Xbox and Playstation, architecture modelling and 3D visualisation.  
+</description>
+
+<qualification_level>NZQF level 6</qualification_level>
+
+<duration>2 years (32 weeks per year)</duration>
+
+<career>
+ > 3D Animator
+</career>
+
+<startdate>
+Auckland, Manukau, Rotorua
+</startdate>
+
+<tuitionfee>
+$9,299 per annum (Domestic) $18,950 (International)
+Fees Free: Check your eligibility on college website
+</tuitionfee>
+</program>
+
+
+
+
+<program>
+<title>AC Diploma in Digital Media</title>
+
+<description> 
+NZQA Accredited, level 6 programme.
+
+The Diploma of Digital Media (DDM) is an intensive one-year course of study designed to refine students' fundamental animation skills and develop knowledge gained in the previous two years. This final year exposes students to the entire production pipeline encountered in a real working studio environment. It is largely self-directed and students are expected to manage their time and workload efficiently. The pace is demanding, replicating the pressures and deadlines of working life in the industry. This prepares our students for a much easier transition into the working world. The main focus, as always, is on producing top quality character animation and performance.
+</description>
+
+<qualification_level>NZQF level 7</qualification_level>
+
+<duration>1 year (32 weeks)</duration>
+
+<career>
+ > 2D or 3D Animator
+</career>
+
+<startdate>
+February 2018
+</startdate>
+
+<tuitionfee>
+$9,484 per annum (Domestic)
+</tuitionfee>
+</program>
+
+
+</all_programs>

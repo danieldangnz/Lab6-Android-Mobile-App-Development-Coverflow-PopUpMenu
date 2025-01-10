@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#044828"
+    tools:context=".MainActivity">
+
+    <!--TextView: display title "Animation College and Ames Programmes"-->
+    <TextView
+        android:id="@+id/apptitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Animation College and Ames Programmes"
+        android:textColor="#c50fde"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <!--FeatureCoverFlow: display programmes in carousel-->
+    <it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow
+        android:id="@+id/coverFlow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/apptitle"
+        app:coverHeight="250dp"
+        app:coverWidth="200dp"
+        app:maxScaleFactor="1.5"
+        app:reflectionGap="0px"
+        app:rotationThreshold="0.5"
+        app:scalingThreshold="0.5"
+        app:spacing="0.6" />
+
+    <!--TextSwitch: display "programme title"-->
+    <TextSwitcher
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:paddingBottom="16dp" />
+
+    <ImageButton
+        android:id="@+id/home_menu"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/home_menu_image" />
+
+</RelativeLayout>
